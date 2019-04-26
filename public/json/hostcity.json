@@ -1,0 +1,98 @@
+[
+    {
+        "AreaCode": "2",
+        "AreaId": "1",
+        "AreaName": "北京",
+        "FirstLetter": "B"
+    },
+    {
+        "AreaCode": "1",
+        "AreaId": "2",
+        "AreaName": "上海",
+        "FirstLetter": "S"
+    },
+    {
+        "AreaCode": "8",
+        "AreaId": "3",
+        "AreaName": "天津",
+        "FirstLetter": "T"
+    },
+    {
+        "AreaCode": "128",
+        "AreaId": "4",
+        "AreaName": "昆山",
+        "FirstLetter": "K"
+    },
+    {
+        "AreaCode": "128",
+        "AreaId": "5",
+        "AreaName": "南京",
+        "FirstLetter": "N"
+    },
+    {
+        "AreaCode": "128",
+        "AreaId": "6",
+        "AreaName": "苏州",
+        "FirstLetter": "S"
+    },
+    {
+        "AreaCode": "128",
+        "AreaId": "7",
+        "AreaName": "无锡",
+        "FirstLetter": "W"
+    },
+    {
+        "AreaCode": "512",
+        "AreaId": "8",
+        "AreaName": "东莞",
+        "FirstLetter": "D"
+    },
+    {
+        "AreaCode": "512",
+        "AreaId": "9",
+        "AreaName": "佛山",
+        "FirstLetter": "F"
+    },
+    {
+        "AreaCode": "512",
+        "AreaId": "10",
+        "AreaName": "广州",
+        "FirstLetter": "G"
+    },
+    {
+        "AreaCode": "512",
+        "AreaId": "11",
+        "AreaName": "江门",
+        "FirstLetter": "J"
+    },
+    {
+        "AreaCode": "512",
+        "AreaId": "12",
+        "AreaName": "深圳",
+        "FirstLetter": "S"
+    },
+    {
+        "AreaCode": "512",
+        "AreaId": "13",
+        "AreaName": "珠海",
+        "FirstLetter": "Z"
+    },
+    {
+        "AreaCode": "512",
+        "AreaId": "14",
+        "AreaName": "中山",
+        "FirstLetter": "Z"
+    },
+    {
+        "AreaCode": "131072",
+        "AreaId": "15",
+        "AreaName": "杭州",
+        "FirstLetter": "H"
+    },
+    {
+        "AreaCode": "131072",
+        "AreaId": "16",
+        "AreaName": "宁波",
+        "FirstLetter": "N"
+    }
+]

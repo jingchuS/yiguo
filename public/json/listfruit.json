@@ -1,0 +1,201 @@
+[
+    {
+      "id": 1,
+      "name": "进口水果",
+      "type": [
+        { "type_id": 1, "name": "全部", "url": "https://img09.yiguoimg.com/e/items/2017/170612/9288708943225548_220.jpg" },
+        { "type_id": 2, "name": "奇异果", "url": "https://img12.yiguoimg.com/e/items/2017/170612/9288708943127244_220.jpg" },
+        { "type_id": 3, "name": "车厘子", "url": "https://img14.yiguoimg.com/e/items/2017/170612/9288708942996172_220.jpg" },
+        { "type_id": 4, "name": "桃", "url": "https://img10.yiguoimg.com/e/items/2017/170615/9288709129380559_220.jpg" },
+        { "type_id": 5, "name": "李", "url": "https://img12.yiguoimg.com/e/items/2017/170615/9288709129282255_220.jpg" },
+        { "type_id": 6, "name": "梅", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709129020111_220.jpg" },
+        { "type_id": 7, "name": "牛油果", "url": "https://img12.yiguoimg.com/e/items/2017/170612/9288708943192780_220.jpg" },
+        { "type_id": 8, "name": "提子", "url": "https://img10.yiguoimg.com/e/items/2017/170615/9288709129511631_220.jpg" },
+        { "type_id": 9, "name": "苹果", "url": "https://img14.yiguoimg.com/e/items/2017/170615/9288709129478863_220.jpg" },
+        { "type_id": 10, "name": "梨", "url": "https://img12.yiguoimg.com/e/items/2017/170615/9288709129446095_220.jpg" },
+        { "type_id": 11, "name": "柑橘", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709129413327_220.jpg" },
+        { "type_id": 12, "name": "香蕉", "url": "https://img09.yiguoimg.com/e/items/2017/170615/9288709128889039_220.jpg" },
+        { "type_id": 13, "name": "火龙果", "url": "https://img12.yiguoimg.com/e/items/2017/170615/9288709128856271_220.jpg" },
+        { "type_id": 14, "name": "椰子", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709128823503_220.jpg" },
+        { "type_id": 15, "name": "芒果", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709128790735_220.jpg" },
+        { "type_id": 16, "name": "凤梨", "url": "https://img14.yiguoimg.com/e/items/2017/170615/9288709128692431_220.jpg" },
+        { "type_id": 17, "name": "榴莲", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709128659663_220.jpg" },
+        { "type_id": 18, "name": "热带水果", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709128626895_220.jpg" },
+        { "type_id": 19, "name": "时令水果", "url": "https://img14.yiguoimg.com/e/items/2017/170615/9288709128594127_220.jpg" },
+        { "type_id": 20, "name": "原箱水果", "url": "https://img09.yiguoimg.com/e/items/2017/170615/9288709128561359_220.jpg" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "国产水果",
+      "type": [
+        { "type_id": 1, "name": "全部", "url": "https://img13.yiguoimg.com/e/items/2017/170616/9288709172896464_220.jpg" },
+        { "type_id": 2, "name": "苹果", "url": "https://img14.yiguoimg.com/e/items/2017/170615/9288709128528591_220.jpg" },
+        { "type_id": 3, "name": "梨", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709128495823_220.jpg" },
+        { "type_id": 4, "name": "柑橘", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709128463055_220.jpg" },
+        { "type_id": 5, "name": "猕猴桃", "url": "https://img09.yiguoimg.com/e/items/2017/170615/9288709128430287_220.jpg" },
+        { "type_id": 6, "name": "瓜", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709128397519_220.jpg" },
+        { "type_id": 7, "name": "葡萄", "url": "https://img09.yiguoimg.com/e/items/2017/170615/9288709128364751_220.jpg" },
+        { "type_id": 8, "name": "桃", "url": "https://img14.yiguoimg.com/e/items/2017/170615/9288709128299215_220.jpg" },
+        { "type_id": 9, "name": "李", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709128266447_220.jpg" },
+        { "type_id": 10, "name": "枣", "url": "https://img09.yiguoimg.com/e/items/2017/170619/9288709269430995_220.jpg" },
+        { "type_id": 11, "name": "莓", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709128200911_220.jpg" },
+        { "type_id": 12, "name": "芒果", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709128069839_220.jpg" },
+        { "type_id": 13, "name": "百香果", "url": "https://img12.yiguoimg.com/e/items/2017/170615/9288709127905999_220.jpg" },
+        { "type_id": 14, "name": "热带水果", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709127873231_220.jpg" },
+        { "type_id": 15, "name": "时令水果", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709127840463_220.jpg" },
+        { "type_id": 16, "name": "凤梨", "url": "https://img14.yiguoimg.com/e/items/2017/170615/9288709128004303_220.jpg" },
+        { "type_id": 17, "name": "原箱水果", "url": "https://img12.yiguoimg.com/e/items/2017/170615/9288709127807695_220.jpg" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "精选肉类",
+      "type": [
+        { "type_id": 1, "name": "全部", "url": "https://img12.yiguoimg.com/e/items/2017/170615/9288709152481999_220.jpg" },
+        { "type_id": 2, "name": "牛排", "url": "https://img10.yiguoimg.com/d/items/2018/180803/9570202619127043_220.jpg" },
+        { "type_id": 3, "name": "冰鲜肉", "url": "https://img14.yiguoimg.com/d/items/2018/180803/9570202575840515_220.jpg" },
+        { "type_id": 4, "name": "进口牛肉", "url": "https://img09.yiguoimg.com/e/items/2017/170615/9288709152318159_220.jpg" },
+        { "type_id": 5, "name": "国产牛肉", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709152285391_220.jpg" },
+        { "type_id": 6, "name": "猪肉", "url": "https://img12.yiguoimg.com/e/items/2017/170615/9288709152252623_220.jpg" },
+        { "type_id": 7, "name": "羊肉", "url": "https://img14.yiguoimg.com/e/items/2017/170615/9288709152219855_220.jpg" },
+        { "type_id": 8, "name": "香肠", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709152187087_220.jpg" },
+        { "type_id": 9, "name": "火腿/培根", "url": "https://img09.yiguoimg.com/e/items/2017/170615/9288709152154319_220.jpg" },
+        { "type_id": 10, "name": "肉制品", "url": "https://img10.yiguoimg.com/e/items/2017/170615/9288709152121551_220.jpg" },
+        { "type_id": 11, "name": "进口鹿肉", "url": "https://img12.yiguoimg.com/d/items/2017/171122/9288715492369270_220.jpg" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "禽类蛋白",
+      "type": [
+        { "type_id": 1, "name": "全部", "url": "https://img12.yiguoimg.com/e/items/2017/170616/9288709173519056_220.jpg" },
+        { "type_id": 2, "name": "鸡", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709152449231_220.jpg" },
+        { "type_id": 3, "name": "鸭", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709152416463_220.jpg" },
+        { "type_id": 4, "name": "鹅/鸽/特色禽类", "url": "https://img12.yiguoimg.com/e/items/2017/170615/9288709152383695_220.jpg" },
+        { "type_id": 5, "name": "蛋", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709152350927_220.jpg" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "海鲜水产",
+      "type": [
+        { "type_id": 1, "name": "全部", "url": "https://img13.yiguoimg.com/e/items/2017/170619/9288709276607187_220.jpg" },
+        { "type_id": 2, "name": "银鳕鱼", "url": "https://img13.yiguoimg.com/d/items/2018/180815/9570204213290255_220.jpg" },
+        { "type_id": 3, "name": "虾仁", "url": "https://img13.yiguoimg.com/d/items/2018/180803/9570202576037123_220.jpg" },
+        { "type_id": 4, "name": "鱼", "url": "https://img12.yiguoimg.com/e/items/2017/170616/9288709169193680_220.jpg" },
+        { "type_id": 5, "name": "三文鱼", "url": "https://img14.yiguoimg.com/e/items/2017/170616/9288709169128144_220.jpg" },
+        { "type_id": 6, "name": "虾", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709169062608_220.jpg" },
+        { "type_id": 7, "name": "蟹", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709169029840_220.jpg" },
+        { "type_id": 8, "name": "贝", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709168702160_220.jpg" },
+        { "type_id": 9, "name": "活鲜", "url": "https://img13.yiguoimg.com/e/items/2017/170616/9288709168669392_220.jpg" },
+        { "type_id": 10, "name": "海产干货", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709168538320_220.jpg" },
+        { "type_id": 11, "name": "特色海产", "url": "https://img14.yiguoimg.com/e/items/2017/170616/9288709168472784_220.jpg" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "即烹美食",
+      "type": [
+        { "type_id": 1, "name": "全部", "url": "https://img12.yiguoimg.com/e/items/2017/170619/9288709291909843_220.jpg" },
+        { "type_id": 2, "name": "独家秘制", "url": "https://img10.yiguoimg.com/e/items/2017/170616/9288709173158608_220.jpg" },
+        { "type_id": 3, "name": "生猛海鲜", "url": "https://img10.yiguoimg.com/e/items/2017/170616/9288709173125840_220.jpg" },
+        { "type_id": 4, "name": "日韩料理", "url": "https://img10.yiguoimg.com/e/items/2017/170616/9288709173093072_220.jpg" },
+        { "type_id": 5, "name": "经典主菜", "url": "https://img09.yiguoimg.com/e/items/2017/170616/9288709173027536_220.jpg" },
+        { "type_id": 6, "name": "中华美食", "url": "https://img12.yiguoimg.com/e/items/2017/170616/9288709172994768_220.jpg" },
+        { "type_id": 7, "name": "精致西餐", "url": "https://img10.yiguoimg.com/e/items/2017/170616/9288709172962000_220.jpg" },
+        { "type_id": 8, "name": "开胃小菜", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709172929232_220.jpg" },
+        { "type_id": 9, "name": "东南亚风味", "url": "https://img09.yiguoimg.com/e/items/2017/170616/9288709172863696_220.jpg" },
+        { "type_id": 10, "name": "田园时蔬", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709172830928_220.jpg" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "乳品糕点",
+      "type": [
+        { "type_id": 1, "name": "全部", "url": "https://img12.yiguoimg.com/e/items/2017/170619/9288709271954131_220.jpg" },
+        { "type_id": 2, "name": "鲜奶", "url": "https://img14.yiguoimg.com/d/items/2018/180803/9570202575906051_220.jpg" },
+        { "type_id": 3, "name": "奶酪", "url": "https://img13.yiguoimg.com/e/items/2017/170616/9288709169816272_220.jpg" },
+        { "type_id": 4, "name": "黄油/奶油", "url": "https://img13.yiguoimg.com/e/items/2017/170616/9288709169783504_220.jpg" },
+        { "type_id": 5, "name": "酸奶/乳酸饮料", "url": "https://img10.yiguoimg.com/e/items/2017/170619/9288709300626131_220.jpg" },
+        { "type_id": 6, "name": "牛奶", "url": "https://img09.yiguoimg.com/e/items/2017/170616/9288709169685200_220.jpg" },
+        { "type_id": 7, "name": "面包", "url": "https://img12.yiguoimg.com/e/items/2017/170619/9288709300593363_220.jpg" },
+        { "type_id": 8, "name": "蛋糕", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709169619664_220.jpg" },
+        { "type_id": 9, "name": "甜点", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709168636624_220.jpg" },
+        { "type_id": 10, "name": "月饼", "url": "https://img14.yiguoimg.com/e/items/2017/170616/9288709169586896_220.jpg" },
+        { "type_id": 11, "name": "冰淇凌", "url": "https://img11.yiguoimg.com/d/items/2018/180803/9570202575742211_220.jpg" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "新鲜蔬菜",
+      "type": [
+        { "type_id": 1, "name": "全部", "url": "https://img12.yiguoimg.com/e/items/2017/170616/9288709170143952_220.jpg" },
+        { "type_id": 2, "name": "叶菜类", "url": "https://img14.yiguoimg.com/e/items/2017/170616/9288709170799312_220.jpg" },
+        { "type_id": 3, "name": "根茎类", "url": "https://img14.yiguoimg.com/e/items/2017/170616/9288709170766544_220.jpg" },
+        { "type_id": 4, "name": "茄果/瓜果类", "url": "https://img13.yiguoimg.com/e/items/2017/170616/9288709170733776_220.jpg" },
+        { "type_id": 5, "name": "花菜/豆类", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709170701008_220.jpg" },
+        { "type_id": 6, "name": "香料", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709170832080_220.jpg" },
+        { "type_id": 7, "name": "菌菇", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709170668240_220.jpg" },
+        { "type_id": 8, "name": "沙拉菜", "url": "https://img12.yiguoimg.com/e/items/2017/170616/9288709170635472_220.jpg" },
+        { "type_id": 9, "name": "冷冻蔬菜", "url": "https://img12.yiguoimg.com/e/items/2017/170616/9288709170569936_220.jpg" },
+        { "type_id": 10, "name": "豆制品", "url": "https://img14.yiguoimg.com/e/items/2017/170616/9288709170504400_220.jpg" },
+        { "type_id": 11, "name": "葱蒜类", "url": "https://img13.yiguoimg.com/e/items/2017/170616/9288709170438864_220.jpg" },
+        { "type_id": 12, "name": "蔬菜组合", "url": "https://img09.yiguoimg.com/e/items/2017/170616/9288709170406096_220.jpg" },
+        { "type_id": 13, "name": "净菜类", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709170373328_220.jpg" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "方便速食",
+      "type": [
+        { "type_id": 1, "name": "全部", "url": "https://img11.yiguoimg.com/e/items/2017/170619/9288709271986899_220.jpg" },
+        { "type_id": 2, "name": "养生汤品", "url": "https://img09.yiguoimg.com/e/items/2017/170616/9288709169881808_220.jpg" },
+        { "type_id": 3, "name": "冷冻点心", "url": "https://img14.yiguoimg.com/e/items/2017/170616/9288709170111184_220.jpg" },
+        { "type_id": 4, "name": "西式主食", "url": "https://img10.yiguoimg.com/e/items/2017/170616/9288709170078416_220.jpg" },
+        { "type_id": 5, "name": "中式主食", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709170045648_220.jpg" },
+        { "type_id": 6, "name": "火锅料", "url": "https://img14.yiguoimg.com/e/items/2017/170616/9288709170012880_220.jpg" },
+        { "type_id": 7, "name": "熟食", "url": "https://img09.yiguoimg.com/e/items/2017/170616/9288709169980112_220.jpg" },
+        { "type_id": 8, "name": "半成品菜", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709169947344_220.jpg" },
+        { "type_id": 9, "name": "易盒家宴", "url": "https://img11.yiguoimg.com/e/items/2017/170616/9288709169914576_220.jpg" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "粮油杂货",
+      "type": [
+        { "type_id": 1, "name": "全部", "url": "https://img10.yiguoimg.com/e/items/2017/170615/9288709120729807_220.jpg" },
+        { "type_id": 2, "name": "米", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709120926415_220.jpg" },
+        { "type_id": 3, "name": "杂粮", "url": "https://img12.yiguoimg.com/e/items/2017/170615/9288709120893647_220.jpg" },
+        { "type_id": 4, "name": "面/面制品", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709120860879_220.jpg" },
+        { "type_id": 5, "name": "油", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709120762575_220.jpg" },
+        { "type_id": 6, "name": "调味料", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709120697039_220.jpg" },
+        { "type_id": 7, "name": "干货", "url": "https://img14.yiguoimg.com/e/items/2017/170615/9288709120664271_220.jpg" },
+        { "type_id": 8, "name": "果干/零食", "url": "https://img13.yiguoimg.com/e/items/2017/170615/9288709120631503_220.jpg" }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "饮料酒水",
+      "type": [
+        { "type_id": 1, "name": "全部", "url": "https://img10.yiguoimg.com/e/items/2017/170615/9288709121811151_220.jpg" },
+        { "type_id": 2, "name": "水", "url": "https://img09.yiguoimg.com/e/items/2017/170615/9288709121778383_220.jpg" },
+        { "type_id": 3, "name": "果汁/饮料", "url": "https://img09.yiguoimg.com/e/items/2017/170615/9288709121745615_220.jpg" },
+        { "type_id": 4, "name": "冲调饮品", "url": "https://img14.yiguoimg.com/e/items/2017/170615/9288709121712847_220.jpg" },
+        { "type_id": 5, "name": "葡萄酒/酒具", "url": "https://img11.yiguoimg.com/e/items/2017/170615/9288709121680079_220.jpg" },
+        { "type_id": 6, "name": "啤酒", "url": "https://img14.yiguoimg.com/d/items/2017/171122/9288715459765110_220.jpg" }
+      ]
+    },
+    {
+        "id": 12,
+        "name": "礼品礼券",
+        "type": [
+            { "type_id": 1, "name": "全部", "url": "https://img14.yiguoimg.com/e/items/2017/170615/9288709151761103_220.jpg" },
+            { "type_id": 2, "name": "礼品礼盒", "url": "https://img12.yiguoimg.com/e/items/2017/170615/9288709121516239_220.jpg" },
+            { "type_id": 3, "name": "礼卡礼券", "url": "https://img14.yiguoimg.com/e/items/2017/170615/9288709151892175_220.jpg" },
+            { "type_id": 4, "name": "原膳礼盒", "url": "https://img09.yiguoimg.com/e/items/2017/170615/9288709151826639_220.jpg" }
+
+        ]
+    }
+  ]
+  

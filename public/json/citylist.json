@@ -1,0 +1,486 @@
+[
+    {
+        "FirstLetter": "A",
+        "citylist": [
+            {
+                "AreaCode": "4",
+                "AreaId": "1",
+                "AreaName": "安庆",
+                "FirstLetter": "A"
+            }
+        ]
+    },
+    {
+        "FirstLetter": "B",
+        "citylist": [
+            {
+                "AreaCode": "8192",
+                "AreaId": "1",
+                "AreaName": "滨州",
+                "FirstLetter": "B"
+            },
+            {
+                "AreaCode": "256",
+                "AreaId": "2",
+                "AreaName": "北京(郊区)",
+                "FirstLetter": "B"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "3",
+                "AreaName": "蚌埠",
+                "FirstLetter": "B"
+            },
+            {
+                "AreaCode": "32",
+                "AreaId": "4",
+                "AreaName": "保定",
+                "FirstLetter": "B"
+            },
+            {
+                "AreaCode": "2",
+                "AreaId": "5",
+                "AreaName": "北京",
+                "FirstLetter": "B"
+            }
+        ]
+    },
+    {
+        "FirstLetter": "C",
+        "citylist": [
+            {
+                "AreaCode": "4096",
+                "AreaId": "1",
+                "AreaName": "成都",
+                "FirstLetter": "C"
+            },
+            {
+                "AreaCode": "32",
+                "AreaId": "2",
+                "AreaName": "承德",
+                "FirstLetter": "C"
+            },
+            {
+                "AreaCode": "128",
+                "AreaId": "3",
+                "AreaName": "崇明县",
+                "FirstLetter": "C"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "4",
+                "AreaName": "滁州",
+                "FirstLetter": "C"
+            },
+            {
+                "AreaCode": "16",
+                "AreaId": "5",
+                "AreaName": "重庆",
+                "FirstLetter": "C"
+            },
+            {
+                "AreaCode": "32",
+                "AreaId": "6",
+                "AreaName": "长春",
+                "FirstLetter": "C"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "7",
+                "AreaName": "常熟",
+                "FirstLetter": "C"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "8",
+                "AreaName": "常州",
+                "FirstLetter": "C"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "9",
+                "AreaName": "池州",
+                "FirstLetter": "C"
+            },
+            {
+                "AreaCode": "16",
+                "AreaId": "10",
+                "AreaName": "长沙",
+                "FirstLetter": "C"
+            },
+            {
+                "AreaCode": "32",
+                "AreaId": "11",
+                "AreaName": "沧州",
+                "FirstLetter": "C"
+            }
+        ]
+    },
+    {
+        "FirstLetter": "D",
+        "citylist": [
+            {
+                "AreaCode": "512",
+                "AreaId": "1",
+                "AreaName": "东莞",
+                "FirstLetter": "D"
+            },
+            {
+                "AreaCode": "32",
+                "AreaId": "2",
+                "AreaName": "大连",
+                "FirstLetter": "D"
+            },
+            {
+                "AreaCode": "8192",
+                "AreaId": "3",
+                "AreaName": "东营",
+                "FirstLetter": "D"
+            },
+            {
+                "AreaCode": "8192",
+                "AreaId": "4",
+                "AreaName": "德州",
+                "FirstLetter": "D"
+            }
+        ]
+    },
+    {
+        "FirstLetter": "F",
+        "citylist": [
+            {
+                "AreaCode": "512",
+                "AreaId": "1",
+                "AreaName": "佛山",
+                "FirstLetter": "F"
+            },
+            {
+                "AreaCode": "16",
+                "AreaId": "2",
+                "AreaName": "福州",
+                "FirstLetter": "F"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "3",
+                "AreaName": "阜阳",
+                "FirstLetter": "F"
+            }
+        ]
+    },
+    {
+        "FirstLetter": "G",
+        "citylist": [
+            {
+                "AreaCode": "512",
+                "AreaId": "1",
+                "AreaName": "广州",
+                "FirstLetter": "G"
+            }
+        ]
+    },
+    {
+        "FirstLetter": "H",
+        "citylist": [
+            {
+                "AreaCode": "32",
+                "AreaId": "1",
+                "AreaName": "衡水",
+                "FirstLetter": "H"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "2",
+                "AreaName": "淮南",
+                "FirstLetter": "H"
+            },
+            {
+                "AreaCode": "8192",
+                "AreaId": "3",
+                "AreaName": "菏泽",
+                "FirstLetter": "H"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "4",
+                "AreaName": "淮北",
+                "FirstLetter": "H"
+            },
+            {
+                "AreaCode": "32",
+                "AreaId": "5",
+                "AreaName": "邯郸",
+                "FirstLetter": "H"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "6",
+                "AreaName": "合肥",
+                "FirstLetter": "H"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "7",
+                "AreaName": "黄山",
+                "FirstLetter": "H"
+            },
+            {
+                "AreaCode": "32",
+                "AreaId": "8",
+                "AreaName": "哈尔滨",
+                "FirstLetter": "H"
+            },
+            {
+                "AreaCode": "131072",
+                "AreaId": "9",
+                "AreaName": "杭州",
+                "FirstLetter": "H"
+            },
+            {
+                "AreaCode": "262144",
+                "AreaId": "10",
+                "AreaName": "湖州",
+                "FirstLetter": "H"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "11",
+                "AreaName": "淮安",
+                "FirstLetter": "H"
+            }
+        ]
+    },
+    {
+        "FirstLetter": "J",
+        "citylist": [
+            {
+                "AreaCode": "8192",
+                "AreaId": "1",
+                "AreaName": "济南",
+                "FirstLetter": "J"
+            },
+            {
+                "AreaCode": "64",
+                "AreaId": "2",
+                "AreaName": "揭阳",
+                "FirstLetter": "J"
+            },
+            {
+                "AreaCode": "32",
+                "AreaId": "3",
+                "AreaName": "吉林",
+                "FirstLetter": "J"
+            },
+            {
+                "AreaCode": "262144",
+                "AreaId": "4",
+                "AreaName": "嘉兴",
+                "FirstLetter": "J"
+            },
+            {
+                "AreaCode": "16",
+                "AreaId": "5",
+                "AreaName": "景德镇",
+                "FirstLetter": "J"
+            },
+            {
+                "AreaCode": "512",
+                "AreaId": "6",
+                "AreaName": "江门",
+                "FirstLetter": "J"
+            },
+            {
+                "AreaCode": "262144",
+                "AreaId": "7",
+                "AreaName": "金华",
+                "FirstLetter": "J"
+            },
+            {
+                "AreaCode": "8192",
+                "AreaId": "8",
+                "AreaName": "济宁",
+                "FirstLetter": "J"
+            }
+        ]
+    },
+    {
+        "FirstLetter": "K",
+        "citylist": [
+            {
+                "AreaCode": "128",
+                "AreaId": "1",
+                "AreaName": "昆山",
+                "FirstLetter": "K"
+            }
+        ]
+    },
+    {
+        "FirstLetter": "L",
+        "citylist": [
+            {
+                "AreaCode": "262144",
+                "AreaId": "1",
+                "AreaName": "丽水",
+                "FirstLetter": "L"
+            },
+            {
+                "AreaCode": "8192",
+                "AreaId": "2",
+                "AreaName": "临沂",
+                "FirstLetter": "L"
+            },
+            {
+                "AreaCode": "8192",
+                "AreaId": "3",
+                "AreaName": "聊城",
+                "FirstLetter": "L"
+            },
+            {
+                "AreaCode": "32",
+                "AreaId": "4",
+                "AreaName": "兰州",
+                "FirstLetter": "L"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "5",
+                "AreaName": "六安",
+                "FirstLetter": "L"
+            },
+            {
+                "AreaCode": "32",
+                "AreaId": "6",
+                "AreaName": "辽阳",
+                "FirstLetter": "L"
+            },
+            {
+                "AreaCode": "256",
+                "AreaId": "7",
+                "AreaName": "廊坊",
+                "FirstLetter": "L"
+            },
+            {
+                "AreaCode": "4",
+                "AreaId": "8",
+                "AreaName": "连云港",
+                "FirstLetter": "L"
+            },
+            {
+                "AreaCode": "8192",
+                "AreaId": "9",
+                "AreaName": "莱芜",
+                "FirstLetter": "L"
+            }
+        ]
+    },
+    {
+        "FirstLetter": "M",
+        "citylist": [
+            {
+                "AreaCode": "4",
+                "AreaId": "1",
+                "AreaName": "马鞍山",
+                "FirstLetter": "M"
+            }
+        ]
+    },
+    {
+        "FirstLetter": "N",
+        "citylist": [
+            {"AreaId": "1", "AreaCode": "64", "AreaName": "南宁", "FirstLetter": "N"},
+            {"AreaId": "2", "AreaCode": "16", "AreaName": "南昌", "FirstLetter": "N"},
+            {"AreaId": "3", "AreaCode": "4", "AreaName": "南通", "FirstLetter": "N"},
+            {"AreaId": "4", "AreaCode": "128", "AreaName": "南京", "FirstLetter": "N"},
+            {"AreaId": "5", "AreaCode": "131072", "AreaName": "宁波", "FirstLetter": "N"}
+        ]
+    },
+    {
+        "FirstLetter": "Q",
+        "citylist": [
+            {"AreaId": "1", "AreaCode": "8192", "AreaName": "青岛", "FirstLetter": "Q"},
+            {"AreaId": "2", "AreaCode": "16", "AreaName": "泉州", "FirstLetter": "Q"},
+            {"AreaId": "3", "AreaCode": "256", "AreaName": "秦皇岛", "FirstLetter": "Q"},
+            {"AreaId": "4", "AreaCode": "262144", "AreaName": "衢州", "FirstLetter": "Q"}
+        ]
+    },
+    {
+        "FirstLetter": "R",
+        "citylist": [
+            {"AreaId": "1", "AreaCode": "8192", "AreaName": "日照", "FirstLetter": "R"}
+        ]
+    },
+    {
+        "FirstLetter": "S",
+        "citylist": [
+            {"AreaId": "1", "AreaCode": "16", "AreaName": "上海(郊区)", "FirstLetter": "S"},
+            {"AreaId": "2", "AreaCode": "262144", "AreaName": "绍兴", "FirstLetter": "S"},
+            {"AreaId": "3", "AreaCode": "4", "AreaName": "宿州", "FirstLetter": "S"},
+            {"AreaId": "4", "AreaCode": "4", "AreaName": "宿迁", "FirstLetter": "S"},
+            {"AreaId": "5", "AreaCode": "65536", "AreaName": "沈阳", "FirstLetter": "S"},
+            {"AreaId": "6", "AreaCode": "64", "AreaName": "汕头", "FirstLetter": "S"},
+            {"AreaId": "7", "AreaCode": "128", "AreaName": "苏州", "FirstLetter": "S"},
+            {"AreaId": "8", "AreaCode": "1", "AreaName": "上海", "FirstLetter": "S"},
+            {"AreaId": "9", "AreaCode": "256", "AreaName": "石家庄", "FirstLetter": "S"},
+            {"AreaId": "10", "AreaCode": "512", "AreaName": "深圳", "FirstLetter": "S"}
+        ]
+    },
+    {
+        "FirstLetter": "T",
+        "citylist": [
+            {"AreaId": "1", "AreaCode": "32", "AreaName": "唐山", "FirstLetter": "T"},
+            {"AreaId": "2", "AreaCode": "32", "AreaName": "太原", "FirstLetter": "T"},
+            {"AreaId": "3", "AreaCode": "262144", "AreaName": "台州", "FirstLetter": "T"},
+            {"AreaId": "4", "AreaCode": "8192", "AreaName": "泰安", "FirstLetter": "T"},
+            {"AreaId": "5", "AreaCode": "8", "AreaName": "天津", "FirstLetter": "T"},
+            {"AreaId": "6", "AreaCode": "4", "AreaName": "铜陵", "FirstLetter": "T"},
+            {"AreaId": "7", "AreaCode": "4", "AreaName": "泰州", "FirstLetter": "T"}
+        ]
+    },
+    {
+        "FirstLetter": "W",
+        "citylist": [
+            {"AreaId": "1", "AreaCode": "8192", "AreaName": "潍坊", "FirstLetter": "W"},
+            {"AreaId": "2", "AreaCode": "16", "AreaName": "武汉", "FirstLetter": "W"},
+            {"AreaId": "3", "AreaCode": "4", "AreaName": "芜湖", "FirstLetter": "W"},
+            {"AreaId": "4", "AreaCode": "8192", "AreaName": "威海", "FirstLetter": "W"},
+            {"AreaId": "5", "AreaCode": "262144", "AreaName": "温州", "FirstLetter": "W"},
+            {"AreaId": "6", "AreaCode": "128", "AreaName": "无锡", "FirstLetter": "W"}
+        ]
+    },
+    {
+        "FirstLetter": "X",
+        "citylist": [
+            {"AreaId": "1", "AreaCode": "4", "AreaName": "宣城", "FirstLetter": "X"},
+            {"AreaId": "2", "AreaCode": "32", "AreaName": "邢台", "FirstLetter": "X"},
+            {"AreaId": "3", "AreaCode": "524288", "AreaName": "西安", "FirstLetter": "X"},
+            {"AreaId": "4", "AreaCode": "4", "AreaName": "徐州", "FirstLetter": "X"},
+            {"AreaId": "5", "AreaCode": "16", "AreaName": "厦门", "FirstLetter": "X"}
+        ]
+    },
+    {
+        "FirstLetter": "Y",
+        "citylist": [
+            {"AreaId": "1", "AreaCode": "4", "AreaName": "扬州", "FirstLetter": "Y"},
+            {"AreaId": "2", "AreaCode": "4", "AreaName": "盐城", "FirstLetter": "Y"},
+            {"AreaId": "3", "AreaCode": "8192", "AreaName": "烟台", "FirstLetter": "Y"},
+            {"AreaId": "4", "AreaCode": "64", "AreaName": "阳江", "FirstLetter": "Y"},
+            {"AreaId": "5", "AreaCode": "256", "AreaName": "燕郊", "FirstLetter": "Y"},
+            {"AreaId": "6", "AreaCode": "32", "AreaName": "银川", "FirstLetter": "Y"}
+        ]
+    },
+    {
+        "FirstLetter": "Z",
+        "citylist": [
+            {"AreaId": "1", "AreaCode": "16", "AreaName": "郑州", "FirstLetter": "Z"},
+            {"AreaId": "2", "AreaCode": "32", "AreaName": "张家口", "FirstLetter": "Z"},
+            {"AreaId": "3", "AreaCode": "4", "AreaName": "亳州", "FirstLetter": "Z"},
+            {"AreaId": "4", "AreaCode": "512", "AreaName": "珠海", "FirstLetter": "Z"},
+            {"AreaId": "5", "AreaCode": "64", "AreaName": "湛江", "FirstLetter": "Z"},
+            {"AreaId": "6", "AreaCode": "8192", "AreaName": "枣庄", "FirstLetter": "Z"},
+            {"AreaId": "7", "AreaCode": "8192", "AreaName": "淄博", "FirstLetter": "Z"},
+            {"AreaId": "8", "AreaCode": "512", "AreaName": "中山", "FirstLetter": "Z"},
+            {"AreaId": "9", "AreaCode": "262144", "AreaName": "舟山", "FirstLetter": "Z"},
+            {"AreaId": "10", "AreaCode": "4", "AreaName": "镇江", "FirstLetter": "Z"}
+        ]
+    }
+]
