@@ -4,7 +4,7 @@
     <!-- swiper -->
     <div class="swiper">
         <mt-swipe :auto="2000" :defaultIndex="0" class="mod-swipe">
-            <mt-swipe-item class="mt-swipe-item"><a href=""><img src="https://img13.yiguoimg.com/d/items/2019/190404/9288737728439940_1125x652.jpg?w=1125&h=652" alt=""></a></mt-swipe-item>
+            <mt-swipe-item class="mt-swipe-item"><a href="javascript:;"><img src="https://img13.yiguoimg.com/d/items/2019/190404/9288737728439940_1125x652.jpg?w=1125&h=652" alt="" @click="todetailHome"></a></mt-swipe-item>
             <!-- <mt-swipe-item><img src="//cdn.doumistatic.com/25,3b8fb1cd8cae0f.jpg" alt=""></mt-swipe-item> -->
         </mt-swipe>
     </div>
@@ -598,6 +598,13 @@ export default {
         "mt-swipe":Swipe,
         "mt-swipe-item":SwipeItem,
         Header,
+    },
+    methods: {
+        todetailHome() {
+            this.$router.push({
+                path: '/detailHome',
+            })
+        }
     }
 }
 </script>

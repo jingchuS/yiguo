@@ -50,7 +50,7 @@
         <!-- 商品 -->
         <ul class="shops" :shops="shops">
             <li :item="item" v-for="item in shops" :key="item.CommodityId">
-                <img :src="item.SmallPic" alt="">
+                <img :src="item.SmallPic" alt="" @click="todetail(item)">
                 <p class="shopsPtxt">{{ item.CommodityName }}</p>
                 <p class="shopsPrice">
                     <span class="price">¥ {{ item.OriginalPrice }} </span>
@@ -79,9 +79,9 @@
                     </p>
                 </div>
             </div>
-            <!-- <router-link to="/login"> -->
+            <router-link to="/login">
                 <div class="countRight" :class="selectTrue?'countrightAcitive':''">去结算</div>
-            <!-- </router-link> -->
+            </router-link>
         </div>
         <!-- 固定在下面的留白 -->
         <div class="white"></div>
@@ -201,6 +201,17 @@ export default {
                 this.checkactive = true;
             }
         },
+        todetail(item) {
+            this.$router.push({
+                path: '/detail',
+                params: {
+                    item: item,
+                },
+                query: {
+                    item: item,
+                }
+            })
+        }
     }
 }
 </script>

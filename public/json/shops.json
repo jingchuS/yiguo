@@ -14,7 +14,8 @@
         "ShowOriginalPrice": false,
         "SmallPic": "https://img14.yiguoimg.com/d/items/2018/180807/9288727914489095_300.jpg",
         "Spec": "300g/盒",
-        "SubTitle": "就像现剥的榴莲肉一样绵糯香甜"
+        "SubTitle": "就像现剥的榴莲肉一样绵糯香甜",
+        "origin": "甘肃兰州"
     },
     {
         "CommodityCode": "106252",
@@ -31,7 +32,8 @@
         "ShowOriginalPrice": false,
         "SmallPic": "https://img14.yiguoimg.com/d/items/2017/171130/9288715872871294_300.jpg",
         "Spec": "0.25kg/袋",
-        "SubTitle": "饱满弹嫩，营养低脂"
+        "SubTitle": "饱满弹嫩，营养低脂",
+        "origin": "南美洲"
     },
     {
         "CommodityCode": "108362",
@@ -48,7 +50,8 @@
         "ShowOriginalPrice": false,
         "SmallPic": "https://img11.yiguoimg.com/d/items/2018/180423/9288722024637591_300.jpg",
         "Spec": "1.5L/瓶",
-        "SubTitle": "健康饮水新时代"
+        "SubTitle": "健康饮水新时代",
+        "origin": "意大利"
     },
     {
         "CommodityCode": "1103749",
@@ -65,7 +68,8 @@
         "ShowOriginalPrice": false,
         "SmallPic": "https://img09.yiguoimg.com/d/items/2018/180929/9288731968185661_300.jpg",
         "Spec": "500g/包",
-        "SubTitle": "天然牧草草饲 肥瘦比约3:7"
+        "SubTitle": "天然牧草草饲 肥瘦比约3:7",
+        "origin": "澳洲"
     },
     {
         "CommodityCode": "425799",
@@ -82,7 +86,8 @@
         "ShowOriginalPrice": false,
         "SmallPic": "https://img14.yiguoimg.com/d/items/2019/190107/9288736492529191_300.jpg",
         "Spec": "100ml*5/份",
-        "SubTitle": "该商品不与其他优惠券、现金券及抵用卡同享"
+        "SubTitle": "该商品不与其他优惠券、现金券及抵用卡同享",
+        "origin": "北京"
     },
     {
         "CommodityCode": "158039",
@@ -99,7 +104,8 @@
         "ShowOriginalPrice": false,
         "SmallPic": "https://img11.yiguoimg.com/d/items/2018/180807/9288727891027207_300.jpg",
         "Spec": "240g/袋",
-        "SubTitle": "软糯米饭爱上咸香鲜肉"
+        "SubTitle": "软糯米饭爱上咸香鲜肉",
+        "origin": "河北"
     },
     {
         "CommodityCode": "1002055",
@@ -116,7 +122,8 @@
         "ShowOriginalPrice": false,
         "SmallPic": "https://img11.yiguoimg.com/d/items/2017/171109/9288714859127657_300.jpg",
         "Spec": "280g/袋",
-        "SubTitle": "无骨无刺，嫩滑不老"
+        "SubTitle": "无骨无刺，嫩滑不老",
+        "origin": "越南"
     },
     {
         "CommodityCode": "1275071",
@@ -133,7 +140,8 @@
         "ShowOriginalPrice": true,
         "SmallPic": "https://img10.yiguoimg.com/d/items/2018/181206/9288735117256070_300.jpg",
         "Spec": "3.3kg/箱",
-        "SubTitle": "巨无霸金果 软糯香甜"
+        "SubTitle": "巨无霸金果 软糯香甜",
+        "origin": "新西兰"
     },
     {
         "CommodityCode": "1000300",
@@ -150,7 +158,8 @@
         "ShowOriginalPrice": false,
         "SmallPic": "https://img12.yiguoimg.com/e/items/2017/170606/9288708705592006_300.jpg",
         "Spec": "400g/包",
-        "SubTitle": "硕大霸气，弹嫩细滑"
+        "SubTitle": "硕大霸气，弹嫩细滑",
+        "origin": "越南"
     },
     {
         "CommodityCode": "196073",
@@ -167,6 +176,7 @@
         "ShowOriginalPrice": false,
         "SmallPic": "https://img09.yiguoimg.com/d/items/2018/180613/9288724483253453_300.jpg",
         "Spec": "250g/包",
-        "SubTitle": "去骨去刺，丰腴鲜香，适煎烤"
+        "SubTitle": "去骨去刺，丰腴鲜香，适煎烤",
+        "origin": "青岛"
     }
 ]

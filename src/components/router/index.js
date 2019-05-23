@@ -8,6 +8,9 @@ import home from '../common/content.vue';
 import shopcar from '../pages/classify/shopcar.vue';
 import mine from '../pages/classify/mine.vue';
 import city from '../pages/city/city.vue';
+import login from '../pages/login/login.vue';
+import detail from '../pages/classify/detail.vue';
+import detailHome from '../pages/classify/homedetail.vue';
 
 const routes = [
     {
@@ -48,6 +51,21 @@ const routes = [
         name: 'city',
         path: '/city',
         component: city,
+    },
+    {
+        name: 'login',
+        path: '/login',
+        component: login,
+    },
+    {
+        name: 'detail',
+        path: '/detail',
+        component: detail,
+    },
+    {
+        name: 'detailHome',
+        path: '/detailHome',
+        component: detailHome,
     }
 ]
 
